@@ -9,7 +9,7 @@ https://github.com/pdlove/homebridge-smartthings/tree/master/smartapps/pdlove/js
 - Create virtual contact sensors & motion sensors in the SmartThings IDE. Make sure to give the SmartApp access to them.
 - Git clone this repo, fill in the installation ID and access token into windowSensor.js
 - Run `npm install`
-- Run ./windowSensor.sh
+- Run ./start.sh
 
 
 
