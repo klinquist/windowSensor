@@ -1,0 +1,1 @@
+rtl_433 -f 344975000 -R 70 -F json | node windowsensor.js
